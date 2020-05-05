@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/btn_ayuda"
+        android:title="@string/str_ayuda"
+        android:icon="@mipmap/cheers"/>
+    <item android:id="@+id/btn_config"
+        android:title="@string/str_config"
+        android:icon="@mipmap/event"/>
+    <item android:id="@+id/btn_palabras"
+        android:title="@string/str_palabras"
+        android:icon="@mipmap/mobile"/>
+    <item android:id="@+id/btn_logros"
+        android:title="@string/str_logros"
+        android:icon="@mipmap/hostel"/>
+</menu>

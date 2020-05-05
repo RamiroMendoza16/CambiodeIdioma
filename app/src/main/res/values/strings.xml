@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cambio de idioma</string>
+    <string name="str_ayuda">Help</string>
+    <string name="str_config">Settings</string>
+    <string name="str_palabras">Words</string>
+    <string name="str_logros">" Achievements"</string>
+    <string name="str_button">Change Language</string>
+    <string name="lang_en">" English"</string>
+    <string name="lang_it">Italian</string>
+    <string name="lang_es">Spanish</string>
+
+    <string-array name="languages">
+        <item>@string/lang_es</item>
+        <item>@string/lang_en</item>
+        <item>@string/lang_it</item>
+    </string-array>
+</resources>

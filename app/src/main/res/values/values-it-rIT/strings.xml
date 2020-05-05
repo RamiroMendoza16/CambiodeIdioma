@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pactica1</string>
+    <string name="str_ayuda">Aiuto</string>
+    <string name="str_config">Configurazione</string>
+    <string name="str_palabras">Parole</string>
+    <string name="str_logros">" Realizzazioni"</string>
+    <string name="lang_en">" Inglese"</string>
+    <string name="lang_it">" Italiano"</string>
+    <string name="lang_es">" spagnolo"</string>
+</resources>
